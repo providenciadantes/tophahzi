@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahteiwooth.keepitcomplicated.com/sitemap.xml
